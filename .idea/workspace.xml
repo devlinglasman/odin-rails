@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50cf0892-fe59-45bd-8813-8da13df59d43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/odin-rails.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/cars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/cars_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/cars_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/car.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/_car.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/index.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/cars/show.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20220129110707_create_cars.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/cars_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/cars.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/car_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/cars_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643453990561</updated>
-      <workItem from="1643453992398" duration="1160000" />
+      <workItem from="1643453992398" duration="1960000" />
     </task>
     <servers />
   </component>
